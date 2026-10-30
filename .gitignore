@@ -1,0 +1,19 @@
+# R / RStudio
+.Rhistory
+.Rapp.history
+.RData
+.RDataTmp
+.Ruserdata
+.Rproj.user/
+*.Rproj
+.Renviron
+*-Ex.R
+/*.tar.gz
+/*.Rcheck/
+vignettes/*.html
+vignettes/*.pdf
+*.utf8.md
+*.knit.md
+rsconnect/
+renv/library/
+renv/staging/
